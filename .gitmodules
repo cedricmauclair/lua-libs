@@ -1,0 +1,3 @@
+[submodule "luatrace"]
+	path = luatrace
+	url = git://github.com/geoffleyland/luatrace.git
